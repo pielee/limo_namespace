@@ -1,0 +1,18 @@
+# ROS2 colcon build outputs
+build/
+install/
+log/
+Log/
+
+# Large dataset (kept locally only)
+src/dataset/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
